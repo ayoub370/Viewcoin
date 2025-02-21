@@ -1,0 +1,31 @@
+{
+  "name": "ViewCoin",
+  "short_name": "ViewCoin",
+  "icons": [
+    {
+      "type": "image/png",
+      "src": "https://proton-resources-production.imgix.net/0497052d551c49659232f697597b3b90397aef04f1abe43565677958dad66dce.png?w=192&amp;h=192&amp;fm=png&amp;bg=fff&amp;fit=crop",
+      "sizes": "192x192"
+    },
+    {
+      "type": "image/png",
+      "src": "https://proton-resources-production.imgix.net/0497052d551c49659232f697597b3b90397aef04f1abe43565677958dad66dce.png?w=384&amp;h=384&amp;fm=png&amp;bg=fff&amp;fit=crop",
+      "sizes": "384x384"
+    },
+    {
+      "type": "image/png",
+      "src": "https://proton-resources-production.imgix.net/0497052d551c49659232f697597b3b90397aef04f1abe43565677958dad66dce.png?w=512&amp;h=512&amp;fm=png&amp;bg=fff&amp;fit=crop",
+      "sizes": "512x512"
+    },
+    {
+      "type": "image/png",
+      "src": "https://proton-resources-production.imgix.net/0497052d551c49659232f697597b3b90397aef04f1abe43565677958dad66dce.png?w=1024&amp;h=1024&amp;fm=png&amp;bg=fff&amp;fit=crop",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": "https://derouiche-ayoubs-team.adalo.com/viewcoin?source=pwa",
+  "scope": "https://derouiche-ayoubs-team.adalo.com/viewcoin",
+  "background_color": "#000000",
+  "theme_color": "#FFFFFF",
+  "display": "standalone"
+}
